@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "e1f6b71ea6889b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3728b4f4890f37e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f327a16c3a1f3946",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "มุมมองกราฟ"
+            }
+          },
+          {
+            "id": "50c648e735d0fd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signal/คาบที่ 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "คาบที่ 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "668a72864319805e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ece7aadbb1ff23cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5096113c26972e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "e1865282296cf528",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "ค้นหา"
+            }
+          },
+          {
+            "id": "3471ff05b1b8f62d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "บุ๊กมาร์ก"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "88010ab7afddd103",
+    "type": "split",
+    "children": [
+      {
+        "id": "31055b64b9a0ac54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "396c9a8c0a2b3c9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Signal/คาบที่ 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "แบ็คลิงค์"
+            }
+          },
+          {
+            "id": "4e5a3401b3640159",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Signal/คาบที่ 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ลิงค์ขาออก"
+            }
+          },
+          {
+            "id": "2544b0792f94372a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "แท็ก"
+            }
+          },
+          {
+            "id": "c5a14fb8e8ffa280",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "คุณสมบัติทั้งหมด"
+            }
+          },
+          {
+            "id": "67ca084b58235808",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Signal/คาบที่ 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "โครงเรื่อง"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "canvas:สร้างผืนผ้าใบใหม่": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
+      "bases:สร้างฐานใหม่": false
+    }
+  },
+  "active": "50c648e735d0fd81",
+  "lastOpenFiles": [
+    "Pasted image 20261118095317.png",
+    "Pasted image 20261118094223.png",
+    "Signal/Signal Graph.canvas",
+    "Signal/คาบที่ 2.md",
+    "Pasted image 20261118093356.png",
+    "ยินดีต้อนรับ.md",
+    "Pasted image 20261118092907.png",
+    "Pasted image 20261118092824.png",
+    "Pasted image 20261118092443.png",
+    "Signal/PDF 1.md",
+    "Signal/Energy-Power.md",
+    "Signal/Basic Signals.md",
+    "Signal/00 Map Signal.md",
+    "ยังไม่ได้ตั้งชื่อ.canvas",
+    "ยังไม่ได้ตั้งชื่อ.base",
+    "Signal/System Types.md",
+    "Signal/Operations.md",
+    "Signal/Periodic.md",
+    "Signal/Even-Odd.md",
+    "Pasted image 20261118092155.png",
+    "Signal"
+  ]
+}

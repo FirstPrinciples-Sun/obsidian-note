@@ -1,0 +1,27 @@
+{
+	"edges":[
+		{"fromNode":"map","id":"e1","toNode":"pdf1","fromSide":"right","toSide":"left"},
+		{"fromNode":"pdf1","id":"e2","toNode":"even","fromSide":"bottom","toSide":"top"},
+		{"fromNode":"pdf1","id":"e3","toNode":"per","fromSide":"bottom","toSide":"top"},
+		{"fromNode":"pdf1","id":"e4","toNode":"ep","fromSide":"bottom","toSide":"top"},
+		{"fromNode":"pdf1","id":"e5","toNode":"basic","fromSide":"bottom","toSide":"top"},
+		{"fromNode":"pdf1","id":"e6","toNode":"ops","fromSide":"bottom","toSide":"top"},
+		{"fromNode":"pdf1","id":"e7","toNode":"sys","fromSide":"bottom","toSide":"top"},
+		{"fromNode":"pdf1","id":"e8","toNode":"c2","fromSide":"right","toSide":"left"},
+		{"fromNode":"even","id":"e9","toNode":"per","fromSide":"right","toSide":"left"},
+		{"fromNode":"per","id":"e10","toNode":"ep","fromSide":"right","toSide":"left"},
+		{"fromNode":"basic","id":"e11","toNode":"ops","fromSide":"right","toSide":"left"},
+		{"fromNode":"ops","id":"e12","toNode":"sys","fromSide":"right","toSide":"left"}
+	],
+	"nodes":[
+		{"file":"Signal/00 Map Signal.md","height":120,"id":"map","type":"file","width":220,"x":-400,"y":-200},
+		{"file":"Signal/PDF 1.md","height":140,"id":"pdf1","type":"file","width":220,"x":0,"y":-200},
+		{"file":"Signal/Even-Odd.md","height":100,"id":"even","type":"file","width":200,"x":-400,"y":100},
+		{"file":"Signal/Periodic.md","height":100,"id":"per","type":"file","width":200,"x":-150,"y":100},
+		{"file":"Signal/Energy-Power.md","height":100,"id":"ep","type":"file","width":200,"x":100,"y":100},
+		{"file":"Signal/Basic Signals.md","height":100,"id":"basic","type":"file","width":200,"x":-400,"y":300},
+		{"file":"Signal/Operations.md","height":100,"id":"ops","type":"file","width":200,"x":-150,"y":300},
+		{"file":"Signal/System Types.md","height":100,"id":"sys","type":"file","width":200,"x":100,"y":300},
+		{"file":"Signal/คาบที่ 2.md","height":100,"id":"c2","type":"file","width":200,"x":350,"y":-200}
+	]
+}
